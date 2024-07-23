@@ -4,9 +4,9 @@ A simple Goals Listing app built in React Native.
 
 ### Screenshots
 
-![First Screen](Screenshots/Screenshot_20240723_083759_Expo Go.jpg)
+![First Screen](Screenshots/ss-1.jpg)
 
-![Second Screen](Screenshots/Screenshot_20240723_083811_Expo Go.jpg)
+![Second Screen](Screenshots/ss-2.jpg)
 
-![Result Screen](Screenshots/Screenshot_20240723_083824_Expo Go.jpg)
+![Result Screen](Screenshots/ss-3.jpg)
 
